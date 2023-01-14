@@ -1,0 +1,17 @@
+{
+  "name": "scrapy_jumbo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "samuel.blas",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "jquery": "^3.6.3",
+    "puppeteer": "^19.5.2"
+  }
+}
